@@ -1,0 +1,123 @@
+body {
+    margin: 0 0 0 0;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    background-color: #000000;
+}
+
+.logo {
+    width: 132px;
+    height: 39.42px;
+}
+
+.nav-items {
+    padding-left: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav-items:hover {
+    color: #1ED760;
+}
+
+.nav-first {
+    color: #FFFFFF;
+}
+
+.nav-second {
+    color: #D9DADC;
+}
+
+.member {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 479px;
+    background-color: rgb(255, 205, 210);
+}
+
+.h1font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.h2font {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.pfont {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.startbtn {
+    box-sizing: border-box;
+    background-color: black;
+    border-radius: 500px;
+    font-size: inherit;
+    color: white;
+    padding: 14px 32px;
+    border: 0px;
+}
+
+.pricebtn {
+    box-sizing: border-box;
+    background-color: rgb(255, 205, 210);
+    border-radius: 500px;
+    font-size: inherit;
+    color: black;
+    padding: 14px 32px;
+    border-color: black;
+}
+
+.btn:hover {
+    transform : scale(1.05)
+}
+
+.memberimg {
+    width: 400px;
+    height: 330px;
+}
+
+.imgdiv {
+    margin-left: 32px;
+}
+
+.app {
+    height: 480px;
+    background-color: #F8F8F8;
+}
+
+.reason {
+    height: 574px;
+    background-color: #FFFFFF;
+}
+
+.culture {
+    height: 571px;
+    background-color: #FFFFFF;
+}
+
+.price {
+    height: 880px;
+    background-color: #F8F8F8;
+}
+
+.qna {
+    height: 796px;
+    background-color: #F8F8F8;
+}
+
+.footer {
+    height: 532px;
+    background-color: #000000;
+}
+
